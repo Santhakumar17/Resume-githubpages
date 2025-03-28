@@ -4,7 +4,7 @@ Welcome to the **GitHub Pages Demo** repository! This project showcases a simple
 
 ## Project URL
 
-You can view the live demo here: [GitHub Pages Demo](https://santhakumar17.github.io/-gh-deployment-workflow/)
+You can view the live demo here: [GitHub Pages Demo](https://santhakumar17.github.io/Resume-githubpages/)
 
 ## Features
 
