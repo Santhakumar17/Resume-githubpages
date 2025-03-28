@@ -1,4 +1,4 @@
-# GitHub Pages Demo: -gh-deployment-workflow
+# GitHub Pages Demo: Resume-githubpages
 
 Welcome to the **GitHub Pages Demo** repository! This project showcases a simple workflow for deploying websites on GitHub Pages.
 
