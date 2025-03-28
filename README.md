@@ -16,4 +16,4 @@ You can view the live demo here: [GitHub Pages Demo](https://santhakumar17.githu
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/santhakumar17/-gh-deployment-workflow.git
+   git clone https://github.com/Santhakumar17/Resume-githubpages.git
